@@ -1,0 +1,15 @@
+body {
+    background-color: #ccd5ae;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Goudy Bookletter 1911', sans-serif;
+    color: #000000;
+}
+
+p {
+    text-align: left;
+    font-family: 'Goudy Bookletter 1911', sans-serif;
+    color: #000000;
+}
