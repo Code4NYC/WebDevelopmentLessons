@@ -5,13 +5,14 @@ Welcome to the Web Development Lessons repository! This repository contains less
 ## Lesson Slides
 
 * `WebDevWeek1.md` Introduction & Basics
-<!-- * `WebDevWeek2.md` Numbers, Conditionals, & Booleans
-* `WebDevWeek3.md` Loops & Repetition
+* `WebDevWeek2.md` More HTML and Intro to CSS
+<!-- * `WebDevWeek3.md` Loops & Repetition
 * `WebDevWeek4.md` Functions & Lists -->
 
 ## Code Files
 
 * `Week1.html` - Example code for Garfield website with header and p tags.
-<!-- * `Week2.py` - Code implementing conditional logic and number operations.
-* `Week3.py` - Scripts demonstrating `for` and `while` loops.
+* `Week2.html` - Updated code for example website with correctly linked css file and comments.
+* `Week2.css` - Code that styles the alignment, colors, fonts, and image size of the website.
+<!-- * `Week3.py` - Scripts demonstrating `for` and `while` loops.
 * `Week4.py` - Code practicing function definitions and list manipulation. -->
