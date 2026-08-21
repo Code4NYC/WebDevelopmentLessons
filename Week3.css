@@ -1,0 +1,43 @@
+body {
+    background-color: #ccd5ae;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Goudy Bookletter 1911', sans-serif;
+    color: #000000;
+}
+
+p {
+    text-align: left;
+    font-family: 'Goudy Bookletter 1911', sans-serif;
+    color: #000000;
+}
+
+/* This styles my image */
+img {
+    width: 300px;
+    height: 250px;
+    border: 3px solid #6C3FA8;
+    border-radius: 12px;
+}
+
+ul {
+    list-style: none;
+    background-color: #e9edc9;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: #000000;
+    foot-size: 1.3em;
+    padding: 1em;
+}
+
+li a:hover {
+    background-color: #ccd5ae;
+}
